@@ -1,4 +1,4 @@
-# PRODIGY_CS_03
+
 Password strength assessment tool built using Python to check complexity rules and provide feedback for stronger and more secure passwords.
 # 🔐 Password Complexity Checker
 
@@ -45,9 +45,7 @@ Each satisfied rule increases the strength score.
 - **Regular Expressions (re module)**
 
 ---
-🎯 Project Objective
 
-This project was developed as part of Prodigy Infotech – Task 03 to understand:
 
 Password security fundamentals
 
